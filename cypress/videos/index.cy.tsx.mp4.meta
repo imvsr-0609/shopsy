@@ -1,0 +1,51 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=4600
+END=10761
+title=test homepage check home page
+[CHAPTER]
+TIMEBASE=1/1000
+START=16943
+END=17073
+title=test homepage check scroll
+[CHAPTER]
+TIMEBASE=1/1000
+START=-12203
+END=17207
+title=test homepage click on a category
+[CHAPTER]
+TIMEBASE=1/1000
+START=45982
+END=46624
+title=test homepage click on single Product add to cart button
+[CHAPTER]
+TIMEBASE=1/1000
+START=41672
+END=47271
+title=test homepage click on single product
+[CHAPTER]
+TIMEBASE=1/1000
+START=52502
+END=52886
+title=test homepage add to cart single product
+[CHAPTER]
+TIMEBASE=1/1000
+START=52534
+END=53276
+title=test homepage open cart
+[CHAPTER]
+TIMEBASE=1/1000
+START=53743
+END=54025
+title=test homepage increment quantity
+[CHAPTER]
+TIMEBASE=1/1000
+START=53565
+END=54311
+title=test homepage decrement quantity
+[CHAPTER]
+TIMEBASE=1/1000
+START=54699
+END=55062
+title=test homepage remove product from cart
